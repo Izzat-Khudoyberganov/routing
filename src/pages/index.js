@@ -1,0 +1,5 @@
+export {default as HomePage} from "./home"
+export {default as ErrorPage} from "./error"
+export {default as Products} from "./products"
+export {default as ProductDetail} from "./product-detail"
+export {default as RootLayout} from "./layout"
